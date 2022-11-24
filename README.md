@@ -1,3 +1,3 @@
-# NumberGuessinGgame
+# NumberGuessingGame
 
-## HTML, JS & CSS för Codejam
+## HTML, JS & CSS för Codejam uppgift 1
